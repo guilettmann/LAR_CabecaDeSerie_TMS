@@ -27,7 +27,7 @@ Scheduler taskScheduler;
 #define C0 (134.25)
 
 //configuração de pino
-#define adcPin 32
+#define adcPin 34
 
 //configuração mavlink
 std::shared_ptr<Task> heartbeat_task;
